@@ -84,3 +84,7 @@
   (place-image sun CENTER-X CENTER-Y SPACE))))))))))))
 
   (animate solar-system)
+
+
+;;Solar System Model in Dr.  Racket :D
+;;March 13th, 2026
